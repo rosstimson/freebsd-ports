@@ -15,9 +15,9 @@ Ports
 Contact
 -------
 
-Website:  [rosstimson.com][website]
-Email:    [ross@rosstimson.com][email]
-Twitter:  [@rosstimson][twitter]
+* Website:  [rosstimson.com][website]
+* Email:    [ross@rosstimson.com][email]
+* Twitter:  [@rosstimson][twitter]
 
 
 [website]:        https://rosstimson.com
